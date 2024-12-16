@@ -1,0 +1,45 @@
+body{ margin: 0;
+    font-family: "Agu Display", serif;
+    background-image: url(https://cdn.leadersedge.com/wp-content/uploads/2021/05/30214831/shutterstock_1859210845.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+
+}
+.greet{
+    padding-left: 500px;
+    
+}
+
+.card-info{display: flex;
+    justify-content: space-between;
+   padding: 15px 25px;
+   
+
+
+}
+ .card video{border-radius: 20px 20px 20px 20px;
+
+}
+
+    
+
+
+.card{
+    width: 300px;
+    background-color: rgba(128, 128, 128,0.3);
+    border-radius: 20px;
+    padding: 10px 10px ;
+}
+.card .thumb{
+    border-radius: 20px 20px 0  0 ;
+
+}
+.trending-cards{display: flex;
+    gap: 12px;
+
+}
+.card:hover{
+background-color:rgba(87, 82, 82, 0.5) ;
+}

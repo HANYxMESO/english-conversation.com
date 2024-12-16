@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    font-family: "Agu Display",sans-serif ش;
+    background-color: rgb(169, 169, 226);
+    background-image:url(https://contenthub-static.grammarly.com/blog/wp-content/uploads/2021/04/english-language-irregularities.jpeg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+background-size: cover;
+}
+
+
+.v{
+    padding-left: 500px;
+}
+    .btn2 {
+        width: 190px;
+        border-radius: 10px;
+        background-color:  rgba(140, 140, 140, 0.6)
+        
+        
+    }
+    .c{
+        padding-left: 500px;
+    }
+    .btn{
+        padding-left: 300px;
+    }
+    .btn:hover img{
+        background-color:  rgba(97, 95, 95, 0.2);
+
+    }

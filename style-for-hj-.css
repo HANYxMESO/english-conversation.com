@@ -1,0 +1,46 @@
+body{ margin: 0;
+    font-family: "Agu Display", serif;
+    background-image: url(file:///C:/Users/Dody%20Rony/Downloads/english/images/DALL%C2%B7E%202024-12-14%2006.15.27%20-%20A%20cartoon-style%20depiction%20of%20an%20English%20conversation%20class.%20The%20scene%20includes%20colorful%20and%20exaggerated%20illustrations%20of%20diverse%20characters%20with%20cheer.webp);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+background-attachment: fixed;
+
+}
+.greet{
+    padding-left: 500px;
+    
+    
+}
+
+.card-info{display: flex;
+    justify-content: space-between;
+   padding: 5px 25px;
+   
+
+
+}
+ .card video{border-radius: 20px 20px 20px 20px;
+
+}
+
+    
+
+
+.card{
+    width: 300px;
+    background-color: rgba(128, 128, 128,0.3);
+    border-radius: 20px;
+    padding: 10px 10px ;
+}
+.card .thumb{
+    border-radius: 20px 20px 0  0 ;
+
+}
+.trending-cards{display: flex;
+    gap: 12px;
+
+}
+.card:hover{
+    background-color:rgba(87, 82, 82, 0.5) ;
+}
